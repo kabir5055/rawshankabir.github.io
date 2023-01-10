@@ -56,7 +56,7 @@
                     <div class="ab_icon">
                         <ul>
                             <li class="ab_icon2 wow slideInLeft"><a href="https://www.facebook.com/rawshan.55/" target="blank"><i class="fab fa-facebook-f"></i></a></li>
-                            <li class="ab_icon wow slideInUp"><a href="https://twitter.com/rawshan5055" target="blank"><i class="fab fa-twitter"></i></a></li>
+                            <li class="ab_icon wow slideInUp"><a href="https://www.linkedin.com/in/rawshan-kabir-78b76b227/" target="blank"><i class="fab fa-linkedin-in"></i></a></li>
                             <li class="ab_icon2 wow slideInRight"><a href="https://github.com/kabir5055" target="blank"><i class="fab fa-github"></i></a></li>
                         </ul>
                     </div>
