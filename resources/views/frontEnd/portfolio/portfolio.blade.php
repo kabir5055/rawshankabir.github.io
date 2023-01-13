@@ -264,11 +264,12 @@
                     </div>
                     <div class=""  data-js="hero-gly">
                         <div class="temp ui-group">
-                            <div class="filters button-group js-radio-button-group">
+                            <div class="filters button-group js-radio-button-group d-flex">
                                 <button class="button is-checked" data-filter="*">All Team</button>
                                 <button class="button" data-filter=".WDD">Web Design & Development</button>
                                 <button class="button" data-filter=".GD">Graphic Design</button>
-                                <button class="button" data-filter=".UXUI">SEO optimizer</button>
+                                <button class="button" data-filter=".UXUI">UX/UI</button>
+                                <button class="button" data-filter=".SQA">SQA</button>
                             </div>
                         </div>
                         <div class="grid">

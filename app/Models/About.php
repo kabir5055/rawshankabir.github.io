@@ -38,7 +38,7 @@ class About extends Model
         }
         else
         {
-            self::$imageUrl = self::$about->image;
+            self::$imageUrl = self::$about->about_image;
         }
         return self::$imageUrl;
     }
