@@ -53,9 +53,8 @@
             <div class="col-lg-4">
                 <div class="right">
                     <h3>Location</h3>
-                    <p>F#A-1, H#4, R#1, B#D, Kaderabad Housing, Katasur, Mohammadpur, Dhaka-1207.</p>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3651.8198462644564!2d90.35780431534477!3d23.753802894562305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8e0191761775e615!2zMjPCsDQ1JzEzLjciTiA5MMKwMjEnMzYuMCJF!5e0!3m2!1sen!2sbd!4v1646163645786!5m2!1sen!2sbd" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                </div>
+                    <p>F#A-5, H#111/2, Central Road, Hatirpul, Dhaka-1205.</p>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3652.1246530182575!2d90.38710241139688!3d23.742933878586598!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b8bec454fac3%3A0xf2d2bdbf65a192f!2s111%20Central%20Rd%201st%20Dr%2C%20Dhaka%201205!5e0!3m2!1sen!2sbd!4v1728252645215!5m2!1sen!2sbd" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                </div>
             </div>
             <div class="col-lg-12 copy">
                 <p>Copyright © 2019 <a href="#">Mr.Kabir</a> All Rights Reserved</p>

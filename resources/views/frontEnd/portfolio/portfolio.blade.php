@@ -25,7 +25,7 @@
 										</span>
                                 </h1>
                             </h6>
-                            <a class="btn my-2 my-sm-0" href="https://drive.google.com/file/d/1bYYET6nr0jHA43c2IF2gud9ZfJETtJEE/view?usp=share_link" type="submit" target="blank">Get CV</a>
+                            <a class="btn my-2 my-sm-0" href="https://drive.google.com/file/d/1tgQbPJJUk4RtQNl3gZkDca9FF7gHyJte/view?usp=sharing" type="submit" target="blank">Get CV</a>
                         </div>
                     </div>
                 </div>
@@ -50,14 +50,14 @@
                 <div class="col-lg-7">
                     <div class="about_content">
                         <h2 class="nam wow bounce">My Name Is Mr.Kabir.</h2>
-                        <p class="wow slideInLeft">{{substr($about->about_content,0,250)}}</p>
-                        <p class="wow slideInRight">{{substr($about->about_content,250)}}</p>
+                        <p class="wow slideInLeft">{{substr($about->about_content,0,317)}}</p>
+                        <p class="wow slideInRight">{{substr($about->about_content,317)}}</p>
                     </div>
                     <div class="ab_icon">
                         <ul>
                             <li class="ab_icon2 wow slideInLeft"><a href="https://www.facebook.com/rawshan.55/" target="blank"><i class="fab fa-facebook-f"></i></a></li>
                             <li class="ab_icon wow slideInUp"><a href="https://twitter.com/rawshan5055" target="blank"><i class="fab fa-twitter"></i></a></li>
-                            <li class="ab_icon2 wow slideInRight"><a href="" target="blank"><i class="fab fa-github"></i></a></li>
+                            <li class="ab_icon2 wow slideInRight"><a href="https://github.com/kabir5055" target="blank"><i class="fab fa-github"></i></a></li>
                         </ul>
                     </div>
                 </div>

@@ -115,7 +115,7 @@ $('h3').addClass('animated fadeIn');
 
 // Countdown JS
 
-const countdown = new Date(2023, 6, 15, 0, 0, 0, 0);
+const countdown = new Date(2025, 6, 15, 0, 0, 0, 0);
 
 function getRemainingTime(endtime) {
   const milliseconds = Date.parse(endtime) - Date.parse(new Date());

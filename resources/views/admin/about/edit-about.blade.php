@@ -16,11 +16,11 @@
                                 @csrf
                                 <input type="hidden" name="about_id" value="{{$about->id}}">
                                 <div class="form-floating mb-3">
-                                    <textarea name="testimonial_content" id="" cols="30" rows="30" class="form-control">{{ $about->about_content }}</textarea>
+                                    <textarea name="about_content" id="" cols="30" rows="30" class="form-control">{{ $about->about_content }}</textarea>
                                     <label>About Content</label>
                                 </div>
                                 <div class="mb-3">
-                                    <input name="testimonial_image" type="file" class="form-control">
+                                    <input name="about_image" type="file" class="form-control">
                                     <img src="{{ asset($about->about_image) }}" alt="" width="100" height="100">
                                 </div>
 
