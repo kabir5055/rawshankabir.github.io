@@ -823,7 +823,8 @@ to {
 	outline-style: none;
 	border:1px solid #87BC42;
 	border-radius: 30px;
-	padding: 10px 40px;
+	padding: 10px 25px;
+    margin: 5px;
 }
 .button-group .button:hover{
 	background:  #87BC42;

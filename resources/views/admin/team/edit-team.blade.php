@@ -44,6 +44,7 @@
                                         <option value="GD">GD</option>
                                         <option value="WDD">WDD</option>
                                         <option value="UXUI">UX/UI</option>
+                                        <option value="SQA">SQA</option>
                                     </select>
                                 </div>
                                 <div class="mb-3">
